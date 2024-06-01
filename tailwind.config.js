@@ -1,5 +1,8 @@
 /** @type {import('tailwindcss').Config} */
-export default {
+
+import konstaConfig from 'konsta/config';
+
+export default konstaConfig({
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -8,4 +11,4 @@ export default {
     extend: {},
   },
   plugins: [],
-}
+});

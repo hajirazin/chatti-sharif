@@ -10,7 +10,7 @@ const LanguageSelection: React.FC = () => {
         className="absolute inset-0 object-cover w-full h-full opacity-50"
       />
       <div className="relative z-10">
-        <h1 className="text-4xl font-bold mb-8">Chhatti Sharif</h1>
+        {/* <h1 className="text-4xl font-bold mb-8">Chhatti Sharif</h1> */}
         <div className="space-y-4">
 
           <button
