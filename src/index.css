@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+
+.urdu {
+  font-family: 'Noto Naskh Arabic', serif;
+  font-size: 1.5em;
+  direction: rtl;
+}
