@@ -4,7 +4,7 @@ fileignoreconfig:
 - filename: public/vite.svg
   checksum: 5fe742fa65b1dea8626174e639646dd7665eb5976ae9caa62855bc9bb33aeeb0
 - filename: package-lock.json
-  checksum: 1d6f47c85976a047027f02eecf4b3f92f6d72f25659be576a237161996a641c3
+  checksum: 227a9ceba7e0ebbe9c07decc86b58843a8a421cde272646f069251529f0cc3dd
 - filename: src/components/LanguageSelection.tsx
   checksum: b033f5fb9be945fda3b778d68950e129ad39b739cb2753070177ca537fccd052
 version: ""
