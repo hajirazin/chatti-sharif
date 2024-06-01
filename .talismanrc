@@ -6,5 +6,5 @@ fileignoreconfig:
 - filename: package-lock.json
   checksum: 1d6f47c85976a047027f02eecf4b3f92f6d72f25659be576a237161996a641c3
 - filename: src/components/LanguageSelection.tsx
-  checksum: 6b1b1c46cdecfede8f88db63048d4feb7a8d1d6fef0c5f2715ee9dc66edf4dce
+  checksum: b033f5fb9be945fda3b778d68950e129ad39b739cb2753070177ca537fccd052
 version: ""
